@@ -37,3 +37,6 @@ https://velog.io/@syiee/Chrome-Web-Driver-%EC%B5%9C%EC%8B%A0-%EB%B2%84%EC%A0%84-
 
 # 4. 활용
 다운받아진 csv파일을 바탕화면으로 드래그하여 다른이름저장으로 엑셀파일로 저장 후 사용
+
+# 5. 기타...
+혹시나 계속 에러가 난다면 파이썬 버전을 3.10.4로 다운받아서 interpreter 바꿔보시길...
